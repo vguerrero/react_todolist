@@ -1,5 +1,8 @@
 
 import { useEffect, useState } from "react"
+//got from https://www.youtube.com/watch?v=Rh3tobg7hEo
+//https://www.youtube.com/@WebDevSimplified
+
 import "./styles.css"
 import NewTodoForm from "./NewTodoForm";
 import { TodoList } from "./TodoList";
